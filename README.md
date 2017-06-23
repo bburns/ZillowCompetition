@@ -2,7 +2,9 @@
 
 Jupyter notebook for Kaggle Zillow competition
 
+## Competition
 
+See https://www.kaggle.com/c/zillow-prize-1
 
 ## Data
 
